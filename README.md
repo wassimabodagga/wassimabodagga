@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Wasim Jihad Abudagga
+# 👋 Hello, I'm Wassem Jihad Abudagga
 
 ![Welcome](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
 
@@ -15,17 +15,9 @@
 
 Here are some technologies I work with (update this list later):
 
-- Programming: `Python`, `Java`, `PHP`, `JavaScript`
-- Databases: `MySQL`, `PostgreSQL`, `Firebase`
+- Programming: `Java`, `PHP`, `Css + Html`, 
+- Databases: `MySQL`, `Firebase`
 - Tools: `Git`, `GitHub`, `VS Code`, `Laravel`, `Flutter`
-
----
-
-### 📈 GitHub Stats
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=wasim-abudagga&color=blue)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wasim-abudagga&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasim-abudagga&layout=compact)
 
 ---
 
