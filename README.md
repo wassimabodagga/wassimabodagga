@@ -8,7 +8,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+###  About Me🧑‍💻:
 
 - 🎓 I'm a 20-year-old software and database specialist.  
 - ✅ Confident in my work and able to perform under pressure.  
@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Skills
+###  Skills🛠️:
 
 <p align="center">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -30,10 +30,10 @@
 
 ---
 
-### 📫 Connect With Me
+###  Connect With Me 📫:
 
 [![Gmail](https://img.shields.io/badge/Gmail-abodaggawassum@gmail.com-red?logo=gmail&logoColor=white)](mailto:abodaggawassum@gmail.com)
 
 ---
 
-### ✨ Thank you for visiting!
+###  Thank you for visiting. I hope you have a nice day. Don't forget that if you have any questions, you can contact us and we will respond as soon as possible✨.
