@@ -28,5 +28,3 @@ Here are some technologies I work with (update this list later):
 ---
 
 ### ✨ Thank you for visiting!
-
-![Thanks](https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif)
