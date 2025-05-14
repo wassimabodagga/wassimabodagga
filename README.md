@@ -1,3 +1,9 @@
+# أهلاً بك 👋
+
+![animated](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+
+هذا مشروع رائع يقوم بـ...
+
 - 👋 Hi, I’m @wassimabodagga
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
