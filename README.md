@@ -38,6 +38,8 @@
 
 ###  Thank you for visiting. I hope you have a nice day. Don't forget that if you have any questions, you can contact us and we will respond as soon as possible✨.
 
+---
+
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=wasseem-abodaqqa.visitor-badge" alt="Visitors" />
 </p>
