@@ -10,27 +10,31 @@
 
 ### 🧑‍💻 About Me
 
--  I'm a 20-year-old software and database specialist🎓.
--  Confident in my work and able to perform under pressure✅.
--  Always eager to learn new technologies and grow my skills🌱.
--  You can reach me at: **abodaggawassum@gmail.com**📫.
+- 🎓 I'm a 20-year-old software and database specialist.  
+- ✅ Confident in my work and able to perform under pressure.  
+- 🌱 Always eager to learn new technologies and grow my skills.  
+- 📫 You can reach me at: **abodaggawassum@gmail.com**
 
 ---
 
-###  Skills🛠️
+### 🛠️ Skills
 
-Here are some technologies I work with:
-
-- Programming: `Java`, `PHP`, `HTML & CSS`
-- Databases: `MySQL`, `Firebase`
-- Tools: `Git`, `GitHub`, `VS Code`, `Laravel`, `Flutter`
+<p align="center">
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROOM%20DATABASE-FF6F61?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/XML-666666?style=for-the-badge&logo=xml&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 ---
 
-###  Connect With Me📫
+### 📫 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-abodaggawassum@gmail.com-red?logo=gmail&logoColor=white)](mailto:abodaggawassum@gmail.com)
 
 ---
 
-###  Thank you for visiting✨!
+### ✨ Thank you for visiting!
