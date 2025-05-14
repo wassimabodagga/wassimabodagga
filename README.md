@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0000FF&center=true&vCenter=true&width=600&lines=I'm+Wassem+Abodaqqa%2C+nice+to+meet+you!" alt="Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0000FF&center=true&vCenter=true&width=600&lines=I'm+Wassem+Abodaqqa%2C+Nice+To+Meet+You!" alt="Intro" />
 </p>
 
 ---
