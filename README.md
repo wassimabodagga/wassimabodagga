@@ -1,4 +1,6 @@
-# 👋 Hello, I'm Wassem Jihad Abudagga
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=0000FF&center=true&vCenter=true&width=500&lines=👋+Hello%2C+I'm+Wassem+Jihad+Abudagga" alt="Typing SVG" />
+</p>
 
 ### 🧑‍💻 About Me
 
@@ -11,9 +13,9 @@
 
 ### 🛠️ Skills
 
-Here are some technologies I work with (update this list later):
+Here are some technologies I work with:
 
-- Programming: `Java`, `PHP`, `Css + Html`, 
+- Programming: `Java`, `PHP`, `HTML & CSS`
 - Databases: `MySQL`, `Firebase`
 - Tools: `Git`, `GitHub`, `VS Code`, `Laravel`, `Flutter`
 
