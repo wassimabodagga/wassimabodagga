@@ -10,14 +10,14 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm a 20-year-old software and database specialist.
-- ✅ Confident in my work and able to perform under pressure.
-- 🌱 Always eager to learn new technologies and grow my skills.
-- 📫 You can reach me at: **abodaggawassum@gmail.com**
+-  I'm a 20-year-old software and database specialist🎓.
+-  Confident in my work and able to perform under pressure✅.
+-  Always eager to learn new technologies and grow my skills🌱.
+-  You can reach me at: **abodaggawassum@gmail.com**📫.
 
 ---
 
-### 🛠️ Skills
+###  Skills🛠️
 
 Here are some technologies I work with:
 
@@ -27,10 +27,10 @@ Here are some technologies I work with:
 
 ---
 
-### 📫 Connect With Me
+###  Connect With Me📫
 
 [![Gmail](https://img.shields.io/badge/Gmail-abodaggawassum@gmail.com-red?logo=gmail&logoColor=white)](mailto:abodaggawassum@gmail.com)
 
 ---
 
-### ✨ Thank you for visiting!
+###  Thank you for visiting✨!
