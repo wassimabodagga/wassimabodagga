@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Wassem Jihad Abudagga
 
-![Welcome](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
-
 ### 🧑‍💻 About Me
 
 - 🎓 I'm a 20-year-old software and database specialist.
